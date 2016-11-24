@@ -35,6 +35,8 @@ h1 {
 	padding-left: 40px;
 	padding-right: 40px;
 	border: gray;
+	margin-left: 0;
+	margin-right: 0;
 }
 
 
@@ -56,7 +58,7 @@ input, button {
 	display: block;
 	border: 2px solid gray;
 	padding: 15px;
-	width: 320px;
+	width: 286px;
 	height: auto;
 	border-radius: 3px;
 }
